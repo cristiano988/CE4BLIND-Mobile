@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BC Reader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_continuous_capture">ContinuousCaptureActivity</string>
+    <string name="title_activity_capture">CaptureActivity</string>
+    <string name="title_activity_remove_bar_code">Remove BarCode</string>
+    <string name="title_activity_list_bar_codes">List BarCodes</string>
+    <string name="title_activity_base_scan">Scanning</string>
+    <string name="title_activity_prospectus">ProspectusActivity</string>
+</resources>
